@@ -1,0 +1,19 @@
+{
+  "name": "gst",
+  "version": "1.0.0",
+  "description": "Utilities for working with GST in New Zealand",
+  "main": "index.js",
+  "scripts": {
+    "build": "node_modules/typescript/bin/tsc"
+  },
+  "keywords": [
+    "gst",
+    "nz",
+    "tax"
+  ],
+  "author": "@AlexClark_NZ",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  }
+}
