@@ -1,5 +1,5 @@
 {
-  "name": "gst",
+  "name": "gst-utils",
   "version": "1.0.0",
   "description": "Utilities for working with GST in New Zealand",
   "main": "index.js",
