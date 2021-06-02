@@ -18,3 +18,6 @@ console.log(amountInclusive) // 115
 console.log(amountExclusive) // 86.96
 
 ```
+
+## Example
+Visit [nzgst.netlify.app](https://nzgst.netlify.app)
